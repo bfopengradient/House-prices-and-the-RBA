@@ -9,6 +9,6 @@ Both models produced negative coefficients meaning as rates dropped house valuat
 
 There is nothing surprising about the result other than a curiosity around size of the coefficient. No lags and no differencing was used.
 
-Nov 2020.
+#### Nov 2020.
 
 
