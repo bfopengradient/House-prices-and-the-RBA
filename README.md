@@ -7,7 +7,10 @@ The target was the mean value of housing stock owned by households in NSW.
 
 Both models produced negative coefficients meaning as rates dropped house valuations rise.
 
-There is nothing surprising about the result other than a curiosity around size of the coefficient. No lags and no differencing was used.
+There is nothing surprising about the result other than a curiosity around size of the coefficient. 
+
+Data is not testsed for stationarity and was not differenced or lagged in any manner.
+
 
 #### Nov 2020.
 
