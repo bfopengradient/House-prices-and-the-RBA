@@ -9,7 +9,7 @@ Both models produced negative coefficients meaning as rates dropped house valuat
 
 There is nothing surprising about the result other than a curiosity around size of the coefficient. 
 
-Data is not testsed for stationarity and was not differenced or lagged in any manner.
+Data is not tested for stationarity and was not differenced or lagged.
 
 
 #### Nov 2020.
